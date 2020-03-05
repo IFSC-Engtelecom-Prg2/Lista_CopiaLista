@@ -3,7 +3,7 @@
 Escreva uma função que copie uma lista de string. A cópia deve ser feita usando iteração da lista. A função possui esta declaração:
 
 ```c++
-void copia_lista(lista<string> & original, lista<string> & nova) {
+void copia_lista(list<string> & original, list<string> & nova) {
   // implementação da função
 }
 ```
